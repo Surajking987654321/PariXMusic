@@ -1,4 +1,4 @@
-from pyrogram.types import InlineKeyboardButton, InlineKeyboardMarkup
+https://t.me/PARI_X_MUSIC_SUPPORTfrom pyrogram.types import InlineKeyboardButton, InlineKeyboardMarkup
 
 from config import SUPPORT_CHAT
 
@@ -18,7 +18,7 @@ def close_markup(_):
         [
             [
                  InlineKeyboardButton(
-                text="⛦ ꜱᴜᴘᴘᴏʀᴛ 🥀", url=f"https://t.me/BRANDED_WORLD"
+                text="⛦ ꜱᴜᴘᴘᴏʀᴛ 🥀", url=f"https://t.me/PARI_X_MUSIC_SUPPORT"
             ),
                 InlineKeyboardButton(
                     text=_["CLOSE_BUTTON"],
